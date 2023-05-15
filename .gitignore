@@ -1,0 +1,5 @@
+#Ignora las carpetas
+node_modules
+.cache
+.vscode
+dist
