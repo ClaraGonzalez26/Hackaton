@@ -1,4 +1,4 @@
-import DragDrop from './DragDrop'
+
 import './App.css'
 import {Container, Row, Col} from 'react-bootstrap'
 import DragDrop from './DragDrop'
